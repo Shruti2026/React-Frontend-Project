@@ -84,4 +84,4 @@ This project is licensed under the MIT License. Feel free to use and modify the 
 Contact
 For any questions or suggestions, please feel free to reach out:
 
-GitHub: [ppsingh21](https://github.com/ppsingh21)
+GitHub: [Shruti2026](https://github.com/Shruti2026)
